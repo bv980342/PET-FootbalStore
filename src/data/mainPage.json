@@ -1,0 +1,65 @@
+[
+	{
+		"kitHome": "https://soccer-store.ru/images/products/9050/medium/1667225694.jpg",
+
+		"title": "Brazil",
+		"cost": 500,
+		"colors": {
+			"home": "#f9fc02"
+		},
+		"id": "1"
+	},
+	{
+		"kitHome": "https://formacenter.ru/wa-data/public/shop/products/00/40/64000/images/141753/141753.970.png",
+
+		"title": "Argentina",
+		"cost": 1000,
+		"colors": {
+			"home": "#02cced"
+		},
+		"id": "2"
+	},
+	{
+		"kitHome": "https://soccer-store.ru/images/products/9019/medium/1669813509.jpg",
+
+		"title": "Netherland",
+		"cost": 500,
+		"colors": {
+			"home": "#f18517",
+			"away": "rgb(15, 1, 110)",
+			"gk": "yellow"
+		},
+		"id": "3"
+	},
+
+	{
+		"kitHome": "https://soccer-store.ru/images/products/8591/medium/1667916044.jpg",
+
+		"title": "Germany",
+		"cost": 500,
+		"colors": {
+			"home": "#000000"
+		},
+		"id": "4"
+	},
+	{
+		"kitHome": "https://soccer-store.ru/images/products/8967/medium/1663841960.jpg",
+
+		"title": "England",
+		"cost": 500,
+		"colors": {
+			"home": "#e5e5e5"
+		},
+		"id": "5"
+	},
+	{
+		"kitHome": "https://soccer-store.ru/images/products/9027/medium/1667222164.jpg",
+
+		"title": "Portugal",
+		"cost": 500,
+		"colors": {
+			"home": "#e11d40"
+		},
+		"id": "6"
+	}
+]
