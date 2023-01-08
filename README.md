@@ -26,3 +26,7 @@
 + :white_check_mark: adding to cart 
 + :white_check_mark: removal in cart
 + :white_check_mark: Price counter
+
+# In the project directory, you can run:
+
+### `npm start`
