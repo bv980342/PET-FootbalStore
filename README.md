@@ -4,7 +4,8 @@
 ---
 ---
 
-# Technologies
+## Technologies
+---
 ![React](https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&logo=Tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
@@ -21,7 +22,8 @@
 
 
 
-# Realised
+## Realised
+---
 
 + :white_check_mark: adding to cart 
 + :white_check_mark: removal in cart
